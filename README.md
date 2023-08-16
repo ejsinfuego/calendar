@@ -2,7 +2,7 @@
 Reusable dynamic calendar UI.
 
 Used Carbon -- (A simple PHP API extension for DateTime) for scripting. Bootstrap CSS for layout and to have it responsive.
-This is what looks like.
+This is what looks like. You can add your own scripting and add necessary elements accordingly.
 
 
 
